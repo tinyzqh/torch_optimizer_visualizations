@@ -26,16 +26,16 @@ The following optimizers are currently supported:
 
 <div align=center>
     <span class='gp-n'>
-        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rastrigin_2d.gif' width="250" alt="2d"/>
-        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rastrigin_3d.gif' width="250" alt="3d"/>
+        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rastrigin_2d.gif' width="300" alt="2d"/>
+        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rastrigin_3d.gif' width="300" alt="3d"/>
     </span>
 </div>
 
 
 <div align=center>
     <span class='gp-n'>
-        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rosenbrock_2d.gif' width="250" alt="2d"/>
-        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rosenbrock_3d.gif' width="250" alt="3d"/>
+        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rosenbrock_2d.gif' width="300" alt="2d"/>
+        <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rosenbrock_3d.gif' width="300" alt="3d"/>
     </span>
 </div>
 
