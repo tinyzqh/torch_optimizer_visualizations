@@ -24,6 +24,8 @@ The following optimizers are currently supported:
 
 ### Visualization
 
+#### Adam 
+
 <div align=center>
     <span class='gp-n'>
         <img src='https://github.com/tinyzqh/torch_optimizer_visualizations/blob/main/pic/rastrigin_2d.gif' width="300" alt="2d"/>
